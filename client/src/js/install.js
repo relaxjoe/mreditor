@@ -1,4 +1,3 @@
-import { butInstall } from './'; // Add import statement for the `butInstall` element
 const butInstall = document.getElementById('buttonInstall');
 
 // Logic for installing the PWA
